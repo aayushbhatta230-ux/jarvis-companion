@@ -1,0 +1,10 @@
+{
+  "voice": "",
+  "mic_sensitivity": 2.5,
+  "response_verbosity": "concise",
+  "visual_intensity": 0.7,
+  "theme": "dark",
+  "auto_listen": true,
+  "barge_in": false,
+  "permission_level": "FULL_CONTROL"
+}

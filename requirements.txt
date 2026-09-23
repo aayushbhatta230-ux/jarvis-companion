@@ -1,0 +1,32 @@
+# Core audio and speech
+SpeechRecognition==3.17.0
+sounddevice==0.5.6
+numpy==2.5.2
+
+# System and OS
+pywin32==312
+
+# AI Models
+ollama==0.6.2
+
+# Core internal dependencies
+openjarvis>=1.0.0
+
+# Screen and UI Automation
+pyautogui>=0.9.54
+mss>=9.0.1
+Pillow>=10.2.0
+
+# Vision and Perception
+pytesseract>=0.3.10
+
+# Media and Window Management
+pygetwindow>=0.0.9
+
+# System Utilities
+psutil>=5.9.8
+pywinctl>=0.3.0
+
+# Document Processing (optional)
+python-docx>=1.1.0
+pypdf>=4.0.0

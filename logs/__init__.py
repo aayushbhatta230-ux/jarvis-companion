@@ -1,0 +1,2 @@
+"""Logs module for JARVIS."""
+

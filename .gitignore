@@ -1,0 +1,41 @@
+# Environment
+.env
+.env.*
+!.env.example
+.venv/
+env/
+venv/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Runtime data
+database/*.db
+memory/*.json
+memory/screenshots/
+
+# Debug artifacts
+*.debug.png
+ytmusic_*.png
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
